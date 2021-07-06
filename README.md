@@ -1,2 +1,2 @@
 # buddie
-Greatest Website ever made
+Sample Website for a personal project
